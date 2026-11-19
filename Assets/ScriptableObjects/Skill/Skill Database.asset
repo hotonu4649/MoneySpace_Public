@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73a5865a5bbf49b199843d987067199a, type: 3}
+  m_Name: Skill Database
+  m_EditorClassIdentifier: Assembly-CSharp::Skill.SkillDatabase
+  _skillList:
+  - {fileID: 11400000, guid: 8935d59bc16b1b140ac35cc3a299727c, type: 2}
+  - {fileID: 11400000, guid: 343260aab8ef02c479b459fc057f58c0, type: 2}
+  - {fileID: 11400000, guid: 26972927f336e8d408793fb7b7bb4472, type: 2}
+  - {fileID: 11400000, guid: 8c571b4892a033e4d90fc3aa1c7cb448, type: 2}
+  - {fileID: 11400000, guid: e27dfff0cae6be4468f79e46284a41f7, type: 2}
+  - {fileID: 11400000, guid: 2a646c9a513c8544bb50702111c2284b, type: 2}
+  - {fileID: 11400000, guid: e96d4fb2d88b93e48b9adc37fb80646e, type: 2}
+  - {fileID: 11400000, guid: ed8550064c1e82d46a54e86cc940fd21, type: 2}
+  - {fileID: 11400000, guid: de919dc17ae4a0841bdd4c8314909fcf, type: 2}
+  - {fileID: 11400000, guid: 529158731a440f148b11c97ebaa71573, type: 2}
+  - {fileID: 11400000, guid: 9f8fcca3be12e914488121298596b205, type: 2}
+  - {fileID: 11400000, guid: f30101586f4f4c247a0c9460a9f42731, type: 2}
+  - {fileID: 11400000, guid: 876381826ba71014daa6b8727dc87b8d, type: 2}
+  - {fileID: 11400000, guid: 1057f259c761d7d40b48bce387de82f2, type: 2}
+  - {fileID: 11400000, guid: 786861f44d76c92419ad52b668f24253, type: 2}
+  - {fileID: 11400000, guid: ba5fb9c6933d4e7409ff6b3a8016a978, type: 2}
+  - {fileID: 11400000, guid: 92fb16dc83852b44eb545a46f7a3562a, type: 2}
+  - {fileID: 11400000, guid: 748315d8577cc3243843a23aa76dcdb0, type: 2}
+  - {fileID: 11400000, guid: 8935d59bc16b1b140ac35cc3a299727c, type: 2}
+  - {fileID: 11400000, guid: 480229df6729e39469fa290032bd502f, type: 2}
+  - {fileID: 11400000, guid: 8594192f5fc1b9f4a8ac1d35b327526b, type: 2}
+  - {fileID: 11400000, guid: 7470f77f51316b64db8485c3eb69f450, type: 2}
+  - {fileID: 11400000, guid: 0d59839ba90f74f42a8a44cc2b4c4e33, type: 2}
+  - {fileID: 11400000, guid: aec14e63e2c1b5142a18f3c01d239d66, type: 2}
+  - {fileID: 11400000, guid: b7fb373722e943447990f1634b0b13db, type: 2}
+  - {fileID: 11400000, guid: e7fbb39131bf25945b73595aee661504, type: 2}
+  - {fileID: 11400000, guid: df473c79c67e2dd47a13009cbe55e0e2, type: 2}
+  - {fileID: 11400000, guid: aeb22e8825af92b449268d78af56f113, type: 2}
+  - {fileID: 11400000, guid: 5304a6283eaeb72499f73e55abbad2b4, type: 2}
+  _skillProbabilities:
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 10
+  - 1000
+  - 100000
+  _skillLevels: 1b0000001c000000
+  _skillLevelsTime: 3c000000b4000000

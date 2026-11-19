@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bc7e0562a5941aab3d3535eb8bc001d, type: 3}
+  m_Name: SuperPlayerBulletData
+  m_EditorClassIdentifier: Assembly-CSharp::DynamicItems.PlayerBullet.PlayerBulletData
+  _bulletType: 1
+  _prefab: {fileID: 2577186298692479318, guid: 9780e3df85f466647b55d964793b08d0, type: 3}
+  _speed: 30
+  _damage: 2
+  _consumeMoney: 2

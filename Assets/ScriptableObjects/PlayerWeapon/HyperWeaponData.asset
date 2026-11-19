@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c27c603b37934d20918906ab0aa8ba53, type: 3}
+  m_Name: HyperWeaponData
+  m_EditorClassIdentifier: Assembly-CSharp::DynamicItems.PlayerWeapon.PlayerWeaponData
+  _weaponName: HyperWeapon
+  _bulletData: {fileID: 11400000, guid: f3bd4d49f802577448a48ab1dbe6f621, type: 2}
+  _weaponIcon: {fileID: -7108195103145673403, guid: 0f4d00b690b76d54d8744ee73ba675d6, type: 3}

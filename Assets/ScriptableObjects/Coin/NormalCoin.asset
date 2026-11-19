@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdec8c6ead954c00ba0d95e638905ecc, type: 3}
+  m_Name: NormalCoin
+  m_EditorClassIdentifier: Assembly-CSharp::DynamicItems.Coin.CoinData
+  _coinType: 0
+  _prefab: {fileID: 4619221949845760491, guid: 154de77dcf1e07b419b6525bb7815a97, type: 3}
+  _value: 1
+  _moveSpeed: 1

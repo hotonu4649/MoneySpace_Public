@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a04f08d0d054ed6a0f3b70fae49e4e3, type: 3}
+  m_Name: HyperEnemy
+  m_EditorClassIdentifier: Assembly-CSharp::DynamicItems.Enemy.EnemyData
+  _enemyType: 2
+  _prefab: {fileID: 1781041986209715776, guid: 740d06146b03b4b45a4fb12ba3589279, type: 3}
+  _enemyHp: 4
+  _speed: 4
+  _enemyBulletData: {fileID: 11400000, guid: e21d161541f295a4581033605e2d87f2, type: 2}
+  _moneyDropAmount: 2

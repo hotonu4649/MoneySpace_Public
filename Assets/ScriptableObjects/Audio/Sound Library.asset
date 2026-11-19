@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 343d870f2c2b40f69d6fa7a4aafb9cae, type: 3}
+  m_Name: Sound Library
+  m_EditorClassIdentifier: Assembly-CSharp::GameSystem.Audio.SoundLibrary
+  _entries:
+  - _name: PlayerDamageSound
+    _clip: {fileID: 8300000, guid: ddc54e1de0e7ab240ac229cf71c9c606, type: 3}
+  - _name: GettingCoinSound
+    _clip: {fileID: 8300000, guid: 6a41bd8e1bca4f843bc88c1c098c7a17, type: 3}
+  - _name: GettingSkillSound
+    _clip: {fileID: 8300000, guid: 2600a90cdfdd4254eb038392ad1019b5, type: 3}
+  - _name: ButtonOn
+    _clip: {fileID: 8300000, guid: 954256d34ee3ceb4bba807e72f836ea1, type: 3}
+  - _name: ButtonOff
+    _clip: {fileID: 8300000, guid: be1d93acfb345764d921134258ad5ab0, type: 3}
+  - _name: WeaponChange
+    _clip: {fileID: 8300000, guid: f1c3ca9e83b235d4491feeef5d70f895, type: 3}
+  - _name: PlayerShoot
+    _clip: {fileID: 8300000, guid: 93c5cf2252e668543811dd3c6e77b2cf, type: 3}
+  - _name: FabulousBgm
+    _clip: {fileID: 8300000, guid: b61724397cf13ca439d6ef1f2b90d579, type: 3}
+  - _name: Patinko
+    _clip: {fileID: 8300000, guid: d301dc0e2366e8a4e913d64fa33b6361, type: 3}
+  - _name: ShortFabulousPatinko
+    _clip: {fileID: 8300000, guid: 044a6bc48f1b70e4b899c80a357298cc, type: 3}

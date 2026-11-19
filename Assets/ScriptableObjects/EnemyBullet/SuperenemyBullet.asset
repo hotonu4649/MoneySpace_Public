@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d75304d903d46b6aed22bafe7d89784, type: 3}
+  m_Name: SuperenemyBullet
+  m_EditorClassIdentifier: Assembly-CSharp::DynamicItems.EnemyBullet.EnemyBulletData
+  _enemyBulletType: 1
+  _prefab: {fileID: 4793092055291034864, guid: ea71add3d187da747907be66da5212b7, type: 3}
+  _speed: 1
+  _bulletDuration: 2
+  _damage: 2
+  _damageUpDuration: 5
+  _damageUpDurationAcceleration: 2
